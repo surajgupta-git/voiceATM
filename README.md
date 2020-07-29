@@ -1,5 +1,6 @@
 # voiceATM
 Voice controlled ATM prototype implemented using google speech recognition with python
-*******imported libraries*****
+
+python packages imported
 1. pyaudio
 2. speechrecognition
